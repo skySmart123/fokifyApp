@@ -9,7 +9,7 @@ import resultsView from './views/resultsView.js';
 import bookmarkView from './views/bookmarkView.js';
 import paginationView from './views/paginationView.js';
 import addRecipeView from './views/addRecipeView.js';
-import { ModuleKind } from 'typescript';
+
 import {MODAL_CLOSE_SEC} from './config.js';
 
 
